@@ -20,20 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# "Transformando Resíduos em Recursos emancipadores: O Impacto Social das Concessões e PPPs em Resíduos Sólidos Urbanos"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+é um ebook, criado com apoio do copilot para trazer orientações sobre o trabalho social nas concessões e PPPs no Âmbito do RSU
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+COPILOT, MJOURNEY, CHATGPT
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-
+pensei em estruturar algo com base nos meus conhecimentos profissionais aliando a tecnologia.
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+divulgação de conhecimento.
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
